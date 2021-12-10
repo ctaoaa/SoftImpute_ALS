@@ -1,7 +1,7 @@
 # SoftImpute_ALS
 Math5472 project  
 
-'Template.pdf' is the final report.  
+'Template.pdf' and 'Final report TAO Chengyu.pdf' are the final reports.  
 
 'Comparison of test and train error.ipynb' produce the Figure 3, Figure 4, and Table 1.  
 
